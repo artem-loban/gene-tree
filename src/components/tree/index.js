@@ -1,5 +1,4 @@
 import React from 'react';
-import { people } from '../../people/tree';
 import { initializeApp } from "firebase/app";
 import { getFirestore, collection, getDocs } from 'firebase/firestore/lite'
 
